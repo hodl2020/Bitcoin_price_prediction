@@ -4,6 +4,9 @@ For "fun program" that uses simple linear regression technique to predict next 7
 This is definitely not a financial advice or financial advise generating program. :)
 
 
+ 
+Program - [Bitcoin_price_prediction](https://github.com/hodl2020/Bitcoin_price_prediction/blob/master/bitcoin_predict.py)
+
 ### Getting Started
 
 ### Prerequisites
