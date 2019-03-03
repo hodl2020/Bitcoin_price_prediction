@@ -7,6 +7,8 @@ This is definitely not a financial advice or financial advise generating program
  
 Program - [Bitcoin_price_prediction](https://github.com/hodl2020/Bitcoin_price_prediction/blob/master/bitcoin_predict.py)
 
+This is more suitable to stock markets and in program you can read comments about how to use same program for stock market analysis with minimal changes.Bitcoin algorithim trader will need Deep Q learning ,ignoring bart patterns, sentiment analyisis and whale watch which is something I am planning to do next.   
+
 ### Getting Started
 
 ### Prerequisites
